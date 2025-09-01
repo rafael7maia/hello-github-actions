@@ -19,7 +19,7 @@ jobs:
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.6.0
     with:
       exercise-title: "Hello GitHub Actions"
-      intro-message: "Create and run a GitHub Actions workflow."
+      intro-message: "Create and run a GitHub Actions workflow"
 
   post_next_step_content:
     name: Post next step content
